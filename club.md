@@ -9,7 +9,7 @@ ENS Paris-Saclay
 61 avenue du Président Wilson  
 94230 Cachan
 
-RER B **Bagneux** (3 stations après Cité U) puis descendre la pente vers l'ENS
+RER B **Bagneux** (4 stations après Cité U) puis descendre la pente vers l'ENS
 
 ## Conférences
 
